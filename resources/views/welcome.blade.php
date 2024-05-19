@@ -41,10 +41,10 @@
                             <label for="name" class="form-label">Name</label>
                             <input type="text" class="form-control" id="name" name="name" autocomplete="off">
                         </div>
-                        <div class="mb-3">
+                        {{-- <div class="mb-3">
                             <label for="photo" class="form-label">Password</label>
                             <input type="file" class="form-control" id="photo" name="photo">
-                        </div>
+                        </div> --}}
                         <button type="submit" class="btn btn-primary">Upload</button>
                     </div>
                 </div>
